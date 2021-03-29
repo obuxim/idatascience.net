@@ -11,7 +11,7 @@ const Layout = ({children}) => {
             <meta charSet="utf-8" />
             <meta name="author" content="www.frebsite.nl" />
             <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-            <title>LearnUp 9 - Online Course &amp; Education HTML Template</title>
+            <title>Institute Of Data Science</title>
             <link href="assets/css/styles.css" rel="stylesheet" />
             <link href="assets/css/colors.css" rel="stylesheet" />
          </Head>  
